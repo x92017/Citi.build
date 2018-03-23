@@ -1,7 +1,7 @@
 <project name="ClassicRedesignAndDeployToServer" default="" basedir=".">
 	<description>Alter and deploy Angular5 changes to server</description>
 	<property file="build.properties"/>
- 
+
 	<target name="init">
 		<!-- Create the time stamp -->
 		<tstamp />
